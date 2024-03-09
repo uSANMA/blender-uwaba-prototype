@@ -1,14 +1,19 @@
-[![Static Badge](https://img.shields.io/badge/version-v0.2.0-green)](https://github.com/uSANMA/blender-uwaba-prototype/releases/tag/uWABA-prototype-3D-Model)
-# Blender files
-## Intro
+[![Static Badge](https://img.shields.io/badge/version-v0.2.0-green)](https://github.com/uSANMA/blender-uwaba-prototype/tree/beta?tab=readme-ov-file)
+# BLENDER FILES
+## INTRO
 These are the blender files associated to our uWABA robot project. It is still in development.
 
-MODIFICATIONS NOTES:
-1. Adjust LiDAR position on top of base support
-2. Remove fans slot from base support
-3. Add buttons, antennas and screws slots for the base support
-4. Get LiDAR's elevation before generating another URDF file
+## ITEMS AND CHANGES
+### ROBOT
+> Changes were made onto `uWABA robot` wheels, suspensions and LiDAR position that needs to be taken into account when creating `links` and `joints`.
+### LiDAR's SUPPORT
+- [x] Added button, changed LiDAR position, resized battery slots.
+- [ ] need to insert a slot for:
+    - [ ] Antenna
+    - [ ] Screws
+    - [ ] Venting
+    - [ ] Reduce overall support volume
 
-DISCLAIMER:
+## REFERENCES
 
-All of it was possible thanks to [phobos'](https://github.com/dfki-ric/phobos/) extension. We are truly grateful for your tool and its open sourceness. Bless.
+>All of it was possible thanks to [phobos'](https://github.com/dfki-ric/phobos/) extension. We are truly grateful for your tool and its open sourceness. Bless.
