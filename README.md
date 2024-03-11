@@ -13,7 +13,8 @@ Changes were made onto `uWABA robot` wheels, suspensions and LiDAR position that
     - [ ] Screws
     - [ ] Venting
     - [ ] Reduce overall support volume
+    - [ ] Create IMU object so that a link can be implemented in URDF file
 
 ## REFERENCES
 
-All of it was possible thanks to [phobos'](https://github.com/dfki-ric/phobos/) extension. We are truly grateful for your tool and its open sourceness. Bless.
+All of it was possible thanks to [phobos'](https://github.com/dfki-ric/phobos/) extension. We are truly grateful for your tool and for making it open source.
