@@ -6,14 +6,16 @@ These are the blender files associated to our uWABA robot project. It is still i
 ## ITEMS AND CHANGES
 ### ROBOT
 Changes were made onto `uWABA robot` wheels, suspensions and LiDAR position that needs to be taken into account when creating `links` and `joints`.
+- [ ] Create IMU object so that a link can be implemented in URDF file;
+- [ ] Add a fixed joint for the robot's suspension objects (i.e. small wheels frame objects);
+
 ### LiDAR's SUPPORT
 - [x] Added button, changed LiDAR position, resized battery slots.
 - [ ] need to insert a slot for:
-    - [ ] Antenna
-    - [ ] Screws
-    - [ ] Venting
-    - [ ] Reduce overall support volume
-    - [ ] Create IMU object so that a link can be implemented in URDF file
+    - [ ] Antenna;
+    - [ ] Screws;
+    - [ ] Venting;
+    - [ ] Reduce overall support volume;
 
 ## REFERENCES
 
