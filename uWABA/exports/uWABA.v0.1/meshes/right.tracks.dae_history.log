@@ -1,3 +1,0 @@
-Instantiated with filepath=None->None, scale=[1.0, 1.0, 1.0], mesh=<bpy_struct, Mesh("right.tracks") at 0x7f269d46f308>, meshname=right.tracks, material=None, mesh_orientation=None, {}
-->trying export of <bpy_struct, Mesh("right.tracks") at 0x7f269d46f308> to /home/frantches/Documents/Ic_Robot_Remake/uWABA/meshes/dae/right.tracks.dae
-->wrote dae to /home/frantches/Documents/Ic_Robot_Remake/uWABA/meshes/dae/right.tracks.dae from bpy_types.Mesh
