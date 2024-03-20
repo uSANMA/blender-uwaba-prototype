@@ -3,7 +3,7 @@
 ## INTRO
 These are the blender files associated to our uWABA robot project. It is still in development.
 <p align="center">
-<img src="" width="500" align="center">
+<img src="https://github.com/uSANMA/blender-uwaba-prototype/blob/beta/uWABA/docs/Model.png" width="500" align="center">
 </p>
 
 ## ITEMS AND CHANGES
