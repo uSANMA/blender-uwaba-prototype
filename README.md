@@ -10,8 +10,10 @@ These are the blender files associated to our uWABA robot project. It is still i
 ### ROBOT
 Changes were made onto `uWABA robot` wheels, suspensions and LiDAR position that needs to be taken into account when creating `links` and `joints`.
 - [ ] Create IMU object so that a link can be implemented in URDF file;
-- [ ] Add a fixed joint for the robot's suspension objects (i.e. small wheels frame objects);
-- [ ] Add joints and link to model
+- [x] Add a fixed joint for the robot's suspension objects (i.e. small wheels frame objects);
+- [x] Add joints and link to model
+- [ ] Send urdf file to [ros2_ws/packages/src/uwaba_prototype_description/urdf](https://github.com/uSANMA/ros2-uwaba-prototype)
+- [ ] Send meshes files to [ros2_ws/packages/src/uwaba_prototype_description/meshes](https://github.com/uSANMA/ros2-uwaba-prototype)
 
 ### LiDAR's SUPPORT
 - [x] Added button, changed LiDAR position, resized battery slots.
